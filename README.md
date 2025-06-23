@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hemadiksitha!
 
-<!--
-**Hemadiksitha/Hemadiksitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A passionate Computer Science & Engineering student from Coimbatore Institute of Technology.
 
-Here are some ideas to get you started:
+🌱 I love building AI-powered learning tools, adaptive quizzes, and smart code editors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My current projects:
+- ✅ [PERSONALIZED_LEARNING](https://github.com/Hemadiksitha/PERSONALIZED_LEARNING) — AI-based MCQ and Code Editor Platform for CSE placements.
+
+🧩 Tech I work with:
+- React | Node.js | Python | Flask | NLP | Ollama | MongoDB
+
+📫 How to reach me:
+- ✉️ hema.diksitha@gmail.com
+- 💼 [LinkedIn](#) (add your link!)
+
+📈 GitHub Stats:
+![Hemadiksitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemadiksitha&show_icons=true&theme=tokyonight)
+
+---
+
+✨ *Always curious. Always building. 🚀*
