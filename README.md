@@ -7,11 +7,22 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hema.diksitha@gmail.com"><img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/hemadiksithakm"><img src="https://img.shields.io/badge/LinkedIn-Hemadiksitha-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/Hemadiksitha"><img src="https://img.shields.io/badge/GitHub-@Hemadiksitha-black?style=flat&logo=github" /></a>
+  <a href="mailto:hema.diksitha@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemadiksithakm">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemadiksitha-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Hemadiksitha">
+    <img src="https://img.shields.io/badge/GitHub-@Hemadiksitha-black?style=flat&logo=github" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Hemadiksitha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  📫 **Email:** [hema.diksitha@gmail.com](mailto:hema.diksitha@gmail.com)
+</p>
+
 
 ---
 
