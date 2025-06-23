@@ -15,20 +15,26 @@
 
 ---
 
-🎓 **Computer Science & Engineering Student @ Coimbatore Institute of Technology (2022–2026)**  
-💡 Passionate about **AI-powered learning tools**, **Adaptive Quizzes**, **Generative AI**, and **IoT Projects**  
-🔧 Currently building **Adaptive MCQ & Code Editor Platforms** using **React**, **Node.js**, **Flask**, **Ollama**, and **NLP models**
+🎓 **Computer Science & Engineering student at Coimbatore Institute of Technology (Batch: 2022–2026)**  
+💡 I’m deeply passionate about **Artificial Intelligence**, **Natural Language Processing**, **Generative AI**, and building **personalized learning tools** that make education smarter and more accessible.  
+🧩 I love exploring **Adaptive Quizzes**, **smart code editors**, and **IoT solutions** that bridge real-world problems with innovative technology.  
+🚀 I enjoy participating in **hackathons**, collaborating on cutting-edge projects, and constantly learning new frameworks, libraries, and AI models like **Ollama**, **spaCy**, and **transformers**.  
+🌱 Currently, I’m focused on developing **AI-powered educational platforms**, experimenting with **NLP-driven question generation**, and contributing to open-source projects.  
+✨ Beyond coding, I love brainstorming creative tech ideas, mentoring peers, and exploring how technology can transform the way we learn and work.
+
 
 ---
 
 ### ⚡ My Tech Arsenal
 
+| Category         | Tools & Technologies                                     |
+|------------------|----------------------------------------------------------|
+| **Languages**    | C, C++, Python, Java, JavaScript                         |
+| **Frontend**     | HTML, CSS, JavaScript, React.js, Tailwind CSS            |
+| **Backend**      | Node.js, Express.js, Python, Flask, MongoDB              |
+| **AI/NLP Tools** | spaCy, transformers, Ollama                              |
+| **Tools & APIs** | Git, Github, Docker, Figma, Blynk (IoT), Render, Netlify |
 
-Languages     : C, C++, Python, Java, JavaScript
-Frontend      : HTML, CSS, JavaScript, React.js, Tailwind CSS
-Backend       : Node.js, Express.js, Python, Flask, MongoDB, Firebase
-AI/NLP Tools  : spaCy, transformers, Ollama
-Tools & APIs  : Git, Docker, Figma, Blynk (IoT), Render, Netlify
 
 ---
 
