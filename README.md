@@ -34,8 +34,12 @@ Tools & APIs  : Git, Docker, Figma, Blynk (IoT), Render, Netlify
 
 ### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hemadiksitha&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemadiksitha&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemadiksitha&layout=compact&theme=radical" width="45%" /> </p>
+
 ---
+
 ### 🏆 GitHub Activity & Trophies
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemadiksitha&theme=radical" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Hemadiksitha&theme=matrix&column=7&no-bg=true&no-frame=true" /> </p>
+
 ---
+
 ⭐ Thanks for visiting my profile! Let’s connect and collaborate on innovative projects! 🚀
